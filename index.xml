@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tyler Heist</title>
+        <link>https://tylerheist.github.io/</link>
+        <description>Tyler Heist</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tylerheist@gmail.com (Tyler Heist)</managingEditor>
+            <webMaster>tylerheist@gmail.com (Tyler Heist)</webMaster><lastBuildDate>Sun, 21 Feb 2021 23:21:23 -0600</lastBuildDate>
+            <atom:link href="https://tylerheist.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://tylerheist.github.io/first_post/</link>
+    <pubDate>Sun, 21 Feb 2021 23:14:31 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://tylerheist.github.io/first_post/</guid>
+    <description><![CDATA[Title My idea My other idea What&rsquo;s the word? Here&rsquo;s my stuff]]></description>
+</item></channel>
+</rss>
